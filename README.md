@@ -1,5 +1,6 @@
 # Depot Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/depot)](https://pkg.fluentci.io/depot)
 [![ci](https://github.com/fluentci-io/depot-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/depot-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with a specific version of [depot](https://depot.dev).
