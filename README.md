@@ -52,7 +52,6 @@ Github Actions:
     plugin: depot
     args: |
       setup
-    working-directory: example
 - name: Show depot version
   run: |
     type depot
